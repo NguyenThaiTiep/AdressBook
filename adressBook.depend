@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590175387 source:d:\c++\adressbook\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<iomanip>
+	<algorithm>
+	<cctype>
+
